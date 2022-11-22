@@ -9,13 +9,16 @@
 </p>
 
 # Cursonex
-Projeto de um sistema full stack que em breve será enviado para o heroku, com todos os sistemas de backend funcionando
+Bem-vindo ao nosso projeto de uma plataforma de cadastro e busca de cursos
+
 ## Alunos
 - `Luiz Fernando de Aragão Souza`
 - Gustavo Pasquini Lucas
 - Lorenzo Adinolfi Acquesta
 - Matheus Yan Leite Gallerani
 ## Tema do projeto
-Uma plataforma de venda de cursos.
+Uma plataforma de compra,venda e busca de cursos.
 
-Nosso projeto será um site de compra e venda de cursos em que o próprio usuário pode criar uma conta para pesquisar categorias de cursos, e cadastrar seus próprios cursos em nosso site 
+Este projeto do github é apenas o inicio da nossa plataforma, com a home hospedada aqui mesmo no github com uma prévia do que teremos futuramente no nosso site
+
+Nosso projeto será um sistema full stack de um site de compra e venda de cursos em que o próprio usuário pode criar uma conta para pesquisar categorias de cursos, e cadastrar seus próprios cursos em nosso site 
