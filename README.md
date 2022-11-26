@@ -13,8 +13,6 @@ Bem-vindo ao nosso projeto de uma plataforma de cadastro e busca de cursos
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/84513178/203321686-510ab9aa-6720-4f7c-a26d-99b264721308.png)
 ## Alunos
 - `Luiz Fernando de Aragão Souza`
-- Gustavo Pasquini Lucas
-- Lorenzo Adinolfi Acquesta
 - Matheus Yan Leite Gallerani
 ## Tema do projeto
 Uma plataforma de compra,venda e busca de cursos.
